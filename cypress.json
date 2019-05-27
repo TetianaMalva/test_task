@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://cafetownsend-angular-rails.herokuapp.com/",
+    "defaultCommandTimeout":30000,
+    "requestTimeout":10000
+}
